@@ -1,0 +1,13 @@
+.user-ota {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+.info-ota {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap:wrap ;
+    margin: 40px 0;
+}
